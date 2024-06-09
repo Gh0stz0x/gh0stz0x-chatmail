@@ -9,8 +9,8 @@ per l'utilizzo nelle chat, in particolare Delta Chat.
 ### Scegliere un indirizzo di chat invece di usarne uno casuale
 
 Nella configurazione dell'account Delta Chat
-puoi toccare "Ho già un profilo".
-e compila i due campi in questo modo:
+puoi toccare "Ho già un profilo"
+e compilare i due campi in questo modo:
 
 - `Indirizzo`: inventare una parola con
 {% if username_min_length == username_max_length %}
@@ -42,7 +42,7 @@ Al primo accesso viene impostata la password.
 
 - I messaggi vengono rimossi incondizionatamente {{ config.delete_mails_after }} giorni dopo essere arrivati ​​sul server.
 
-- Puoi archiviare fino a [{{ config.max_mailbox_size }} messaggi sul server](https://delta.chat/en/help#what-happens-if-i-turn-on-delete-old-messages- dal server).
+- Puoi archiviare fino a [{{ config.max_mailbox_size }} di messaggi sul server](https://delta.chat/en/help#what-happens-if-i-turn-on-delete-old-messages-from-server).
 
 ### Chi sono gli operatori? Quale software è in esecuzione?
 
