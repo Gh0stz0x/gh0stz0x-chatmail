@@ -60,8 +60,9 @@ def is_allowed_to_create(config: Config, user, cleartext_password) -> bool:
             config.username_min_length,
             config.username_max_length,
         )
+        return False
 
-    return False
+    return True
 
 
 def get_user_data(db, config: Config, user):
