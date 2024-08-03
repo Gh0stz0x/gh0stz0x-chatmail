@@ -17,6 +17,7 @@ Se stai visualizzando questa pagina su un dispositivo diverso
 senza un'app Delta Chat,
 puoi anche **scansionare questo codice QR** con Delta Chat:
 
+
 <a href="DCACCOUNT:https://{{ config.mail_domain }}/new">
     <img width=300 style="float: none;" src="qr-chatmail-invite-{{config.mail_domain}}.png" /></a>
 
@@ -29,4 +30,6 @@ sul gruppo ufficiale "Amici Delta Cchino"
 
 [![](https://chatmail.woodpeckersnest.space/qr-chatmail-invite-amicideltacchino.png)](https://i.delta.chat/#6FE1642916908F1AC9CC7557CC99CF5DDB92043C&a=groupsbot%40testrun.org&g=Amici%20Delta%20Cchino%20%CE%B4%F0%9F%A6%83%EF%B8%8F&x=g9GMUqKwvgB&i=0qBMdsGrq7n&s=_tiLU2IcUrs)
 
-💡 **Se hai domande** scrivici all'e-mail: chatmail[at]woodpeckersnest[dot]space
+
+💡 **Se hai domande** scrivici all'e-mail: chatmail [at] woodpeckersnest [dot] space
+
