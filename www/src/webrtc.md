@@ -2,9 +2,8 @@
 
 ## Elenco Codici QR per configurare le videochiamate
 
-Per velocizzare la configurazione delle **Videochiamate**,
-abbiamo pensato di inserire qui dei `Codici QR` per velocizzare
-la configurazione.
+Per velocizzare la configurazione delle **Videochiamate**
+abbiamo pensato di inserire qui dei `Codici QR`.
 
 Abbiamo scelto alcuni server, ma nessuno vi vieta di inserire 
 quello che vi piace.
